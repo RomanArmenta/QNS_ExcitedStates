@@ -8,6 +8,3 @@ from netket.operator.spin import sigmaz, sigmax
 import json
 
 from functools import partial
-
-plt.rcParams['figure.figsize'] = [10, 5]
-plt.rcParams['figure.dpi'] = 300
